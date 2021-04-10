@@ -1,0 +1,178 @@
+
+
+body {
+	font-size:16px;
+	font-family:Arial, sans-serif;
+}
+
+a {
+	text-decoration:none;
+	color:inherit;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+/*=============================================
+=                  NAVIGATION                 =
+=============================================*/
+
+.nav_bar {
+	display:block;
+	float:right;
+}
+
+.nav_bar li {
+	display:inline-block;
+	padding-left:15px;
+}
+
+.nav_bar li img {
+	height:24px;
+	position:relative;
+	top:7px;
+}
+
+
+
+/*=============================================
+=                  MAIN CENTER                =
+=============================================*/
+
+.container_main {
+	display:block;
+	width:100%;
+	text-align:center;
+  
+}
+
+.logo {
+	width:100%;
+	padding-top:160px;
+	padding-bottom:1px;
+  
+  
+}
+
+
+.searchbox {
+	width: 592px;
+	height: 45px;
+	margin: auto;
+	position:relative;
+  
+}
+
+.searchbox input {
+	width:570px;
+	height:100%;
+	border:1px solid #DDDDDD;
+	padding: 0 10px;
+	position:relative;
+	float:left;
+	z-index:10;
+    border-radius: 200px;
+	outline: none;
+}
+
+.container_mic {
+	position:absolute;
+	width:100%;
+	height:100%;
+ 
+}
+
+.container_mic img {
+	float:right;
+	height:26px;
+	position:relative;
+	top:9px;
+	right:13px;
+	z-index:11;
+}
+
+.searchbox input:hover {
+	border:1px solid #AEAEAE;
+}
+
+.container_buttons_search {
+	display:block;
+	margin-top:15px;
+  padding: 20px;
+}
+
+.container_buttons_search .button_search {
+	margin-right:8px;
+	margin-left:6px; 
+	border:0cm solid #DDD;
+	padding: 14px 5px;
+	display: inline-block;
+	background-color:rgb(241, 247, 247);
+	font-size:13px;
+	font-weight:400;
+  padding-left: 20px;
+ padding-right: 20px;
+ padding-bottom: 14px;
+}
+
+.button_search:hover {
+	border-bottom: 1px solid #CACACA;
+	background-color:#F5F5F5;
+}
+
+.button_search {
+	font-size:11px;
+	font-weight:100;
+}
+
+.button_search a:hover {
+	text-decoration:none;
+}
+
+.google_search {
+	width:90px;
+}
+
+
+.feeling_lucky {
+	width:105px;
+}
+
+/*=============================================
+=                    FOOTER                  =
+=============================================*/
+
+.footer {
+	position:absolute;
+	width:100%;
+	height:80px;
+	background-color:#F2F2F2;
+	bottom:1px;
+	border-top:1px solid #E4E4E4;
+}
+
+.footer_left {
+	display:block;
+	float:left;
+	width:48%;
+}
+
+.footer_right {
+	display: block;
+	text-align:right;
+}
+
+.footer_left ul li, .footer_right ul li{
+	display:inline-block;
+	padding-top:15px;
+	padding-bottom:10px;
+	color:#666;
+}
+
+.footer_left ul li{
+	padding-left:30px;
+}
+.footer_right ul li{
+	padding-right:30px;
+}
