@@ -139,8 +139,9 @@ a:hover {
 }
 .paragraph{
 	text-align: center;
-margin-right: 105px;
-
+margin-right: 100px;
+padding: 20px;
+font-size: 17px;
 }
 
 /*=============================================
