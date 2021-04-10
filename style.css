@@ -73,7 +73,9 @@ a:hover {
 	float:left;
 	z-index:10;
   border-radius: 200px;
+	outline: none;
 }
+
 
 .container_mic {
 	position:absolute;
