@@ -28,12 +28,11 @@ a:hover {
 	padding-left:15px;
 }
 
-.nav_bar li img {
-	height:24px;
+.nav_bar img {
+	height:35px;
 	position:relative;
-	top:7px;
+	top: 7px;px;
 }
-
 
 
 /*=============================================
