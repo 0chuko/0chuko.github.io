@@ -1,5 +1,12 @@
-#This is just a Google clone 
+- 👋 Hi, I’m 0chuko
+- 
+- I’m currently  learning Programming
+-
+- 
 
-#Best viewed on a Laptop, Desktop or a Tablet 
 
- # 0chuko.github.io
+This is just a Google clone 
+
+Best viewed on a Laptop, Desktop or a Tablet 
+
+ live link - 0chuko.github.io
