@@ -3,4 +3,4 @@
 - This is just a Google clone 
 - Best viewed on a Laptop, Desktop or a Tablet 
 
- live link - 0chuko.github.io
+ live link - https://0chuko.github.io
